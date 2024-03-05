@@ -1,0 +1,12 @@
+@import '../../utils/colors.scss';
+
+.input {
+  padding-left: 16px;
+  margin-top: 20px;
+  width: 320px;
+  height: 48px;
+  border: 2px solid $color-blue;
+  border-radius: 3px;
+
+  font-size: 18px;
+}

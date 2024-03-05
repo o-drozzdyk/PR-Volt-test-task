@@ -1,0 +1,17 @@
+/* stylelint-disable scale-unlimited/declaration-strict-value */
+
+@import './utils/colors.scss';
+
+* {
+  box-sizing: border-box;
+  transition: all 0.3s;
+}
+
+body {
+  margin: 0;
+  color: $color-dark;
+  font-family: Roboto, Helvetica, sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

@@ -1,0 +1,14 @@
+@import '../../utils/colors.scss';
+
+.error {
+  display: flex;
+  align-items: center;
+  margin-top: 16px;
+  width: 320px;
+  height: 100px;
+  border-radius: 3px;
+
+  text-align: center;
+  color: $color-white;
+  background-color: $color-red-bright;
+}
