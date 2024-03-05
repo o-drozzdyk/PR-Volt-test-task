@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PR-Volt-test-task/static/css/main.785139f8.css",
+    "main.js": "/PR-Volt-test-task/static/js/main.44a5ab80.js",
+    "index.html": "/PR-Volt-test-task/index.html",
+    "main.785139f8.css.map": "/PR-Volt-test-task/static/css/main.785139f8.css.map",
+    "main.44a5ab80.js.map": "/PR-Volt-test-task/static/js/main.44a5ab80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785139f8.css",
+    "static/js/main.44a5ab80.js"
+  ]
+}
